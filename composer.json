@@ -1,0 +1,11 @@
+{
+    "name": "user/hexlet-php",
+    "description": "my php programm",
+    "authors": [
+        {
+            "name": "dd357",
+            "email": "lodyr99@gmail.com"
+        }
+    ],
+    "require": {}
+}
