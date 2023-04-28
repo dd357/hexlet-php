@@ -7,6 +7,11 @@
             "email": "user@test.com"
         }
     ],
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "require": {
         "tightenco/collect": "^9.52"
     }
