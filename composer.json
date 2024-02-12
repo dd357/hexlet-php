@@ -1,0 +1,11 @@
+{
+    "name": "dd357/hexlet-php",
+    "description": "example-project",
+    "authors": [
+        {
+            "name": "dima",
+            "email": "lodyr99@gmail.com"
+        }
+    ],
+    "require": {}
+}
