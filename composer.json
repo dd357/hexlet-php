@@ -7,5 +7,18 @@
             "email": "lodyr99@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    },
+    "scripts": {
+        "phpcs": "phpcs"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.8"
+    }
 }
