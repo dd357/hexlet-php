@@ -1,0 +1,12 @@
+{
+    "name": "dd/hexlet-php",
+    "description": "First program with composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "dd357",
+            "email": "lodyr99@gmail.com"
+        }
+    ],
+    "require": {}
+}
