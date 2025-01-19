@@ -1,5 +1,9 @@
 <?php
 
-echo 'Hello, Hexlet!';
+require_once __DIR__ . '/vendor/autoload.php';
 
-phpinfo();
+// Файл не включается напрямую
+// Он загрузится автоматически благодаря автозагрузке
+use Hexlet\Php\Runner;
+
+print_r(Runner\run());

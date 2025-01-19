@@ -8,5 +8,18 @@
             "email": "lodyr99@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.38"
+    },
+    "scripts": {
+    "phpcs": "phpcs"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.11"
+    }
 }
